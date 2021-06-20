@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  table,th,td {
+    border: solid black 1px;
+    border-collapse: collapse;
+    /* background-color: bisque; */
+    color: cornflowerblue;
+    /* font-family: 'Indie Flower', cursive; */
+  }
+
+  td {
+    padding: 15px 0;
+    text-align: center;
+    border:1px dotted gray;
+  }
