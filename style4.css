@@ -1,0 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
+table,td,tr,th{
+    border: solid black;
+}
